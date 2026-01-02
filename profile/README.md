@@ -5,7 +5,7 @@
 
 **Northwestern University | Department of Electrical and Computer Engineering**
 
-[🌐 Website]([https://donkerdude.github.io/](https://imec-nu.github.io/)) • [📧 Contact](mailto:stephen.xia@northwestern.edu)
+[🌐 Website](https://imec-nu.github.io/) • [📧 Contact](mailto:stephen.xia@northwestern.edu)
 
  <!-- • [🐦 Twitter](https://twitter.com/imeclab) -->
 
